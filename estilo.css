@@ -1,0 +1,132 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.jpg');
+	font: 16px Arial, Helvetica, sans-serif;
+	background-attachment: fixed;
+
+}
+#banner{
+	width: 800px;
+}
+
+#principal{
+	
+	width: 800px;
+	
+}
+
+#menu{
+	background: #c5c5b2;
+	padding: 18px;
+}
+
+#conteudo{
+	background: #e8e8d9 ;
+	width: 800px;
+	height: auto;
+
+
+  	background-color: violet; /* For browsers that do not support gradients */
+  	background-image: linear-gradient(violet, skyblue);
+	
+}
+
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h2{
+
+	color: #F5F5F5;
+	font-family: Helvetica;
+	text-align: center;
+	padding: 15px;
+}
+
+h4{
+	color: #F5F5F5;
+	font-family: Helvetica;
+}
+
+.centralizar{
+	text-align: center;
+
+}
+
+.icone{
+	width: 200px;
+	padding: 15px;
+	margin: 45px;
+	
+}
+
+.icone-2{
+	width: 200px;
+	padding: 20px;
+	margin-left: 200px;
+	align-items: center;
+	
+}
+
+.rec{
+	width: 250px;
+	align-items: center;
+	padding: 15px;
+	padding: 40px;
+
+
+}
+.rec2{
+	width: 250px;
+	padding-left: 240px;
+	padding-bottom: 15px;
+}
+.rec3{
+	width: 500px;
+	padding-left: 125px;
+	padding-bottom: 15px;
+}
+
+p{
+	font-family: verdana;
+	color: #000080;
+	padding: 10px;
+	text-align: justify-all;
+}
+
+ul{
+	font-family: verdana;
+	color: #000080;
+}
+
+blockquote{
+
+	color:#FFFFFF;
+	padding: 35px;
+	font-size: 22px;
+	font-style: italic;
+	font-family: "Times New Roman";
+
+}
+
+.aspa{
+
+	font-size: 4em;
+	font-family:  "Brush Script MT";
+}
+
+.aspa2{
+
+	font-size: 2em;
+	font-family:  "Brush Script MT";
+}
+
+.subtitle{
+
+	text-align: right;
+	font-style: italic;
+}
+
